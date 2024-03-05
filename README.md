@@ -2,7 +2,9 @@
 
 This is a demo application to implement voting in solidity smart contract using ReactJS. 
 
-[Youtube Tutorial](https://youtu.be/eCn6mHTpuM0)
+
+##Discription
+This program is a contract written in Solidity, a programming language used for developing smart contracts on the Ethereum blockchain. The contract has a multiple function that returns the string different different outputs. This program serves as a highly secure platform for voting .introduction to Solidity programming, and can be used as a stepping stone for more complex projects in the future.
 
 ## Installation
 
@@ -26,3 +28,12 @@ Once you have pasted your private key and contract address in the .env file, sim
 ```shell
 npm start
 ```
+## Authors
+
+Metacrafter Student Vishal Saini 
+
+
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE.md file for details
